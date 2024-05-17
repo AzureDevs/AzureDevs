@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AzureDevs (@AzureDev from Replit)
 - 👀 I’m interested in JavaScript and web development.
-- 📫 My Email: alex.from.sas@gmail.com
-- 🎮 My Discord: @Azure#7147
+- 📫 My Email: shen46806@sas.edu.sg
+- 🎮 My Discord: @Azure_7147
